@@ -1,0 +1,1 @@
+# Produtos por categoriasLink do desafio: [Produtos por categorias](https://www.beecrowd.com.br/judge/pt/problems/view/2609)- **Resolução do desafio**:![produtos](produtos_por_categorias.png)- **Solução**:```select c.name, sum(p.amount) as sum from categories c inner join products pon p.id_categories=c.idgroup by c.name;```
