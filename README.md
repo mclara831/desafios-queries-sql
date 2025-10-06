@@ -7,8 +7,8 @@ Esse repositório contém as resoluções dos desafios propostos com queries SQL
 - [Departamentos e Divisões](parte_1/departamentos_e_divisoes/departamento_e_divisoes.md)
 - [Endereços dos clientes](parte_1/enderecos_clientes/enderecos_clientes.md)
 - [Nenhuma localização](parte_1/nenhuma_localizacao/nenhuma_localizacao.md)
-- [Payback](payback/payback.md)
-- [Produtos por categorias](produtos_por_categorias/produtos_por_categorias.md)
+- [Payback](parte_1/payback/payback.md)
+- [Produtos por categorias](parte_1/produtos_por_categorias/produtos_por_categorias.md)
 
 ### Desafios - parte 2
 - [Advogados](parte_2/advogados/advogados.md)
